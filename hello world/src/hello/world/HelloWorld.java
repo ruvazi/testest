@@ -17,6 +17,8 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("H    W");
         System.out.println("Ello Orld");
+        System.out.println("\n t\n h\n i\n s\n");
+        System.out.println("w04k");
         
         // TODO code application logic here
     }
